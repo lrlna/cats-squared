@@ -7,7 +7,7 @@ You, too, can find out the number of cats that will appear in your house over yo
 ## install
 
 ```
-npm install -g cat-squared
+npm install -g cats-squared
 ```
 
 ## use
@@ -15,6 +15,6 @@ npm install -g cat-squared
 This package is using [prompt](github.com/flatiron/prompt), and it will ask you *all* the :crystal_ball: v important questions :crystal_ball: that it needs to get you the answer you're looking for; therefore, you can just run in your terminal :kissing_heart:
 
 ```bash
-cat-squared get-cats
+cats-squared get-cats
 ```
 
