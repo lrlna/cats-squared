@@ -1,0 +1,24 @@
+{
+  "name": "cats-squared",
+  "version": "1.0.0",
+  "description": "determine number of cats at the end of your lifetime",
+  "main": "index.js",
+  "bin": {
+    "cat-squared": "index.js"
+  },
+  "keywords": [
+    "cats",
+    "cli",
+    "lifetime",
+    "exponents"
+  ],
+  "author": "Irina Shestak",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.16",
+    "bignum": "^0.12.5",
+    "chalk": "^1.1.3",
+    "prompt": "^1.0.0",
+    "yargs": "^6.3.0"
+  }
+}
